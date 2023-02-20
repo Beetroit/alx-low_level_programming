@@ -19,7 +19,7 @@ int main(void)
 				putchar(32);
 				putchar((j / 10) + '0');
 				putchar((j % 10) + '0');
-				if (((i / 10) + (i % 10) + (j / 10) + (j % 10)) != 35)
+				if (((i / 10) + (i % 10) + (j / 10) + (j % 10)) != 35 || i / 10 < i % 10)
 				{
 					putchar(44);
 					putchar(32);
