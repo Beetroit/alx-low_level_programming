@@ -1,19 +1,16 @@
 #include "./main.h"
 /**
- * main - Prints _putchar
- * Return: 0
+ * print_alphabet - Prints Alphabets in lowercase
+ * Return: void
  */
 
 void print_alphabet(void)
 {
-	char str[] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
-	int size = sizeof(str);
 
-	for (i = 0; i < size - 1; i++)
+	for (i = 97; i < 122; i++)
 	{
-		_putchar(str[i]);
+		_putchar(i);
 	}
-	_putchar('\n');
-	return;
+	_putchar(10);
 }
