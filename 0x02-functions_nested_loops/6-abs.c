@@ -1,4 +1,7 @@
-
+/**
+ * _abs - Returns absolute value
+ * Return: absolute value of n
+*/
 
 int _abs(int n)
 {
@@ -6,4 +9,5 @@ int _abs(int n)
 	{
 		return (n *= -1);
 	}
+	return (n);
 }
