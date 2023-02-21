@@ -1,5 +1,7 @@
 /**
  * _abs - Returns absolute value
+ * @n: int to be checked
+ *
  * Return: absolute value of n
 */
 
