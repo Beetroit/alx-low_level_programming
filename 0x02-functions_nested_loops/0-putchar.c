@@ -7,9 +7,10 @@
 int main(void)
 {
 	char str[] = "_putchar";
-	unsigned long int i;
+	int i;
+	int size = sizeof(str);
 
-	for (i = 0; i < sizeof(str); i++)
+	for (i = 0; i < size; i++)
 	{
 		_putchar(str[i])
 	}
