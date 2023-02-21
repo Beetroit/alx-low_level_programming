@@ -4,7 +4,7 @@
  * Return: 0
  */
 
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char str[] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
