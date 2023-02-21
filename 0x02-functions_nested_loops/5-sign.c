@@ -2,7 +2,7 @@
 /**
  * print_sign - Prints the sign attached to a number
  * @n: The number to be checked
- * 
+ *
  * Return: 1 or -1 if pos or neg, else 0 if 0.
  */
 int print_sign(int n)
@@ -21,5 +21,6 @@ int print_sign(int n)
 	{
 		_putchar(48);
 	}
+	_putchar(10);
 	return (res);
 }
