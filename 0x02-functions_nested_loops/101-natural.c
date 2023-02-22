@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints sum of multiples of 3 or 5 
+ * main - Prints sum of multiples of 3 or 5
  * Return: 0
 */
 int main(void)
@@ -13,7 +13,6 @@ int main(void)
 		if (i % 3 == 0 || i % 5 == 0)
 		{
 			_sum += i;
-			printf("%d\n", _sum);
 		}
 		i++;
 		
