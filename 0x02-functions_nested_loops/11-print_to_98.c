@@ -11,15 +11,15 @@ int print_to_98(int num)
 	{
 		if (num == 98)
 		{
-			printf("%2d\n", num);
+			printf("%d\n", num);
 			break;
 		} else if (num > 98)
 		{
-			printf("%2d, ", num);
+			printf("%d, ", num);
 			num--;
 		} else if (num < 98)
 		{
-			printf("%2d, ", num);
+			printf("%d, ", num);
 			num++;
 		} else if (num >= 0 && num <= 98)
 		{
