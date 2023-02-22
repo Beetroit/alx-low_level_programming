@@ -3,7 +3,7 @@
  * main - Prints first 50 fibbonaci nums
  * Return: 0
 */
-int main()
+int main(void)
 {
 	long int a = 1;
 	long int b = 2;
