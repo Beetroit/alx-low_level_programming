@@ -4,7 +4,7 @@
  *
  * Return: 0
 */
-int main(void)
+int times_table(void)
 {
 	int i, j;
 
