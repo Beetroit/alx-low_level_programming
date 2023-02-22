@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * jack_bauer - Generates a 24row clock
  * Return: void
@@ -11,12 +12,16 @@ void jack_bauer(void)
 	{
 		for (col = 0; col < 10; col++)
 		{
-			_putchar(row 10 + '0');
-			_putchar(row % 10 + '0');
-			_putchar(':');
-			_putchar(col / 10 + '0');
-			_putchar(col % 10 + '0');
-			_putchar('\n');
+			putchar(row / 10 + '0');
+			putchar(row % 10 + '0');
+			putchar(':');
+			putchar(col / 10 + '0');
+			putchar(col % 10 + '0');
 		}
 	}
+}
+int main(void)
+{
+	jack_bauer();
+	return (0);
 }

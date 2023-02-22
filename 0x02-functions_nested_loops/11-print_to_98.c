@@ -15,14 +15,13 @@ int print_to_98(int num)
 			break;
 		} else if (num > 98)
 		{
-			printf("%2d, ",num);
+			printf("%2d, ", num);
 			num--;
 		} else if (num < 98)
 		{
 			printf("%2d, ", num);
 			num++;
 		}
-		
 	}
 	return (0);
 }
