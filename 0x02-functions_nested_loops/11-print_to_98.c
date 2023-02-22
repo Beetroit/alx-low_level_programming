@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * print_to_98 - Prints all integers from input to 98
  * @num: input num
- * 
+ *
  * Return: 0
 */
 int print_to_98(int num)
@@ -13,7 +12,7 @@ int print_to_98(int num)
 		if (num == 98)
 		{
 			printf("%2d\n", num);
-			return (0);
+			break;
 		} else if (num > 98)
 		{
 			printf("%2d, ",num);
@@ -25,4 +24,5 @@ int print_to_98(int num)
 		}
 		
 	}
+	return (0);
 }
