@@ -4,7 +4,7 @@
  *
  * Return: 0
 */
-int times_table(void)
+void times_table(void)
 {
 	int i, j;
 
@@ -22,5 +22,4 @@ int times_table(void)
 		}
 		_putchar(10);
 	}
-	return (0);
 }
