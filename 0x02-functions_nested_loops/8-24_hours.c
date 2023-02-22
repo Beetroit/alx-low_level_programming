@@ -1,5 +1,8 @@
 #include "main.h"
-
+/**
+ * jack_bauer - Generates a 24hr clock
+ * Return: void
+*/
 void jack_bauer(void)
 {
 	int hr, min;
@@ -12,6 +15,7 @@ void jack_bauer(void)
 			_putchar(':');
 			_putchar(min / 10 + '0');
 			_putchar(min % 10 + '0');
+			_putchar('\n');
 		}	
 	}
 }
