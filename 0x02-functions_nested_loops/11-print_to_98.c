@@ -23,9 +23,9 @@ int print_to_98(int num)
 			num++;
 		} else if (num >= 0 && num <= 98)
 		{
-			printf("%d, ");
+			printf("%d, ", num);
 		}
-		printf("\n");
+		putchar('\n');
 	}
 	return (0);
 }
