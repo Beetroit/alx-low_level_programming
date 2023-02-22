@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - Prints first 50 fibbonaci nums
+ * Return: 0
+*/
 int main()
 {
 	long int a = 1;
