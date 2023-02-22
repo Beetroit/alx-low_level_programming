@@ -20,5 +20,5 @@ int times_table(void)
 		}
 		printf("\n");
 	}
-	return (0)
+	return (0);
 }
