@@ -21,7 +21,11 @@ int print_to_98(int num)
 		{
 			printf("%2d, ", num);
 			num++;
+		} else if (num >= 0 && num <= 98)
+		{
+			printf("%d, ");
 		}
+		printf("\n");
 	}
 	return (0);
 }
