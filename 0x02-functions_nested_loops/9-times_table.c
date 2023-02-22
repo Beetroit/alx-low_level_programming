@@ -4,7 +4,7 @@
  *
  * Return: 0
 */
-int times_table(void)
+int main(void)
 {
 	int i, j;
 
@@ -13,7 +13,7 @@ int times_table(void)
 		for (j = 0; j < 10; j++)
 		{
 			printf("%2d", i * j);
-			if (i * j != 81)
+			if (j != 9)
 			{
 				printf(", ");
 			}
