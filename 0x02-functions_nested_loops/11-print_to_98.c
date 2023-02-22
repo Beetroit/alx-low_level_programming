@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+/**
+ * print_to_98 - Prints all integers from input to 98
+ * @num: input num
+ * 
+ * Return: 0
+*/
+int print_to_98(int num)
+{
+	while (num <= 98 || num >= 98)
+	{
+		if (num == 98)
+		{
+			printf("%2d\n", num);
+			return (0);
+		} else if (num > 98)
+		{
+			printf("%2d, ",num);
+			num--;
+		} else if (num < 98)
+		{
+			printf("%2d, ", num);
+			num++;
+		}
+		
+	}
+}
