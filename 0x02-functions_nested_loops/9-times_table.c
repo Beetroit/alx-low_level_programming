@@ -1,27 +1,24 @@
-#include "main.h"
 #include <stdio.h>
 /**
- * jack_bauer - Generates a 24row clock
- * Return: void
+ * times_table - 9 Times table
+ * 
+ * Return: 0
 */
-void jack_bauer(void)
+int times_table(void)
 {
-	int row, col;
+	int i, j;
 
-	for (row = 0; row < 10; row++)
+	for (i = 0; i < 10; i++)
 	{
-		for (col = 0; col < 10; col++)
+		for (j = 0; j < 10; j++)
 		{
-			putchar(row / 10 + '0');
-			putchar(row % 10 + '0');
-			putchar(':');
-			putchar(col / 10 + '0');
-			putchar(col % 10 + '0');
+			printf("%3d", i*j);
+			if (i * j != 81)
+			{
+				printf(", ");
+			}
 		}
+		printf("\n");
 	}
-}
-int main(void)
-{
-	jack_bauer();
-	return (0);
+	return (0)
 }
