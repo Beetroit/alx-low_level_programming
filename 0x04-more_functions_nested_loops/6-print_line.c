@@ -1,21 +1,19 @@
 #include "main.h"
 /**
- * print_line - prints a line of length n
- * @n: Length
+ * print_line - Prints a line of length n
+ * @n: Length of line
 */
+
 void print_line(int n)
 {
-	if (n <= 0)
-	{
-		_putchar(10);
-	} else
-	{
-		int i;
+	int i;
 
-		for (i = 1; i <= n; i++)
+	if (n > 0)
+	{
+		for (i = 0; i < n; i++)
 		{
-			_putchar(95);
+			_putchar('_');
 		}
-		_putchar(10);
 	}
+	_putchar('\n');
 }
