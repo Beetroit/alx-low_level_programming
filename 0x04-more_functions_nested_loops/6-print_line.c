@@ -5,7 +5,7 @@
 */
 void print_line(int n)
 {
-	if (n<=0)
+	if (n <= 0)
 	{
 		_putchar(10);
 	} else
@@ -16,7 +16,5 @@ void print_line(int n)
 			n--;
 		}
 		_putchar(10);
-	}
-	
-	
+	}	
 }
