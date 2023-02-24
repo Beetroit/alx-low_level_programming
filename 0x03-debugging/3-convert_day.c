@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-0ce7b80166a4.js"></script>
   
 
-  <title>alx-low_level_programming/3-print_remaining_days.c at master · teejay0007/alx-low_level_programming</title>
+  <title>alx-low_level_programming/3-convert_day.c at master · teejay0007/alx-low_level_programming</title>
 
 
 
@@ -77,7 +77,7 @@
 
     
 
-  <meta name="request-id" content="C637:1F00:676C33E:6B0227F:63F93996" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d3e3e7a7fdb7b0f74c3e04191225aca1a29db6e01c3adc68a0645fe58e028a90" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90ZWVqYXkwMDA3L2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwMy1kZWJ1Z2dpbmciLCJyZXF1ZXN0X2lkIjoiQzYzNzoxRjAwOjY3NkMzM0U6NkIwMjI3Rjo2M0Y5Mzk5NiIsInZpc2l0b3JfaWQiOiI1MDI1MzUyNjI5ODIyNjQ4NDMwIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="7c992573aca37802188e7adc889b2c641c02a70ffcb24305c19f4a7133cebb00" data-turbo-transient="true" />
+  <meta name="request-id" content="C637:1F00:6772DB3:6B09138:63F939A7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d3e3e7a7fdb7b0f74c3e04191225aca1a29db6e01c3adc68a0645fe58e028a90" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90ZWVqYXkwMDA3L2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwMy1kZWJ1Z2dpbmciLCJyZXF1ZXN0X2lkIjoiQzYzNzoxRjAwOjY3NzJEQjM6NkIwOTEzODo2M0Y5MzlBNyIsInZpc2l0b3JfaWQiOiI1MDI1MzUyNjI5ODIyNjQ4NDMwIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="ba57b693cee3ab8837ff233631a18c7c7f5884104b1c3214dbb0a5c8e54b0caf" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:602601263" data-turbo-transient>
@@ -116,11 +116,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c8da68ac476d4d1fc970e8f9f1690b2268484da7a1b869c01e5c088eb4670329/teejay0007/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/3-print_remaining_days.c at master · teejay0007/alx-low_level_programming" /><meta name="twitter:description" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/c8da68ac476d4d1fc970e8f9f1690b2268484da7a1b869c01e5c088eb4670329/teejay0007/alx-low_level_programming" /><meta property="og:image:alt" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/3-print_remaining_days.c at master · teejay0007/alx-low_level_programming" /><meta property="og:url" content="https://github.com/teejay0007/alx-low_level_programming" /><meta property="og:description" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c8da68ac476d4d1fc970e8f9f1690b2268484da7a1b869c01e5c088eb4670329/teejay0007/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/3-convert_day.c at master · teejay0007/alx-low_level_programming" /><meta name="twitter:description" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/c8da68ac476d4d1fc970e8f9f1690b2268484da7a1b869c01e5c088eb4670329/teejay0007/alx-low_level_programming" /><meta property="og:image:alt" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/3-convert_day.c at master · teejay0007/alx-low_level_programming" /><meta property="og:url" content="https://github.com/teejay0007/alx-low_level_programming" /><meta property="og:description" content="getting started with c. Contribute to teejay0007/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/87917539/ws?session=eyJ2IjoiVjMiLCJ1Ijo4NzkxNzUzOSwicyI6MTA0MDM0NzkyMSwiYyI6NTUxNzIwMTk5LCJ0IjoxNjc3Mjc3NjA3fQ==--cfbf5ee7adb9106d9adc19bf0add7255b7cd640bd27ec4c8eaf68c850059e425" data-refresh-url="/_alive" data-session-id="75d9932b474b39d01b372f3687249e992a3f21a004d82c3a2c682859cdc5d5b5">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/87917539/ws?session=eyJ2IjoiVjMiLCJ1Ijo4NzkxNzUzOSwicyI6MTA0MDM0NzkyMSwiYyI6ODI1MDkyMDczLCJ0IjoxNjc3Mjc3NjQxfQ==--881e205f4f6b6ff056e499b0e6780733e4873d7210012580af558f1b9c714893" data-refresh-url="/_alive" data-session-id="75d9932b474b39d01b372f3687249e992a3f21a004d82c3a2c682859cdc5d5b5">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -150,7 +150,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="R__AHAVVwY7nHKsdv0BZu77DJhetN3bdxRn_Z1aZyU9sbuVS12VUshm3hOfRdK3HBKTx5M_29EjnE7QNrZbT1g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="SiH6LyEZwgoaBPua1T8OXXEg-aiiphEcQVTqKcJvM5NhsN9h8ylXNuSv1GC7C_ohy0cuW8Bnk4ljXqFDOWApCg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -444,7 +444,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Beetroit&quot;,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="a5b8fd0d59db07cf5205016946093e485264149ff91e77274e419fc851bc443c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Beetroit&quot;,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="b01321db2f7b6134120d87135b337ef8c27248c747c14c4e24ab8882d868b7c7" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -452,7 +452,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/87917539?s=40&amp;v=4" width="20" height="20" alt="@Beetroit" />
       Beetroit
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BGfao1EO3rtAsuE1f2FtOe7c-6gm249KK161hYufj7No_3cSVBIRrLX35O9GQ6qHTFko0x59xEsivDwUaO1-jA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2ZSSjKCwVUN66Jcyuxfvl2WZ34xlDfS-vCSXQryEG2q1DD89payaVI-tkuiCNSgpxxwM912rv7-1xh7TX_bqVQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -487,7 +487,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODc5MTc1MzkiLCJ0IjoxNjc3Mjc3NjA3fQ==--3a84d83ccf8a0305b1990fda40c81699a61e8ee8411abaefe6450f6c09b374ca" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODc5MTc1MzkiLCJ0IjoxNjc3Mjc3NjQxfQ==--3161b3491ec81cfad3ab1e948418efdb9112ceeb538248e44a4d9d5c5d450ef0" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -630,7 +630,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODc5MTc1MzkiLCJ0IjoxNjc3Mjc3NjA3fQ==--3a84d83ccf8a0305b1990fda40c81699a61e8ee8411abaefe6450f6c09b374ca" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODc5MTc1MzkiLCJ0IjoxNjc3Mjc3NjQxfQ==--3161b3491ec81cfad3ab1e948418efdb9112ceeb538248e44a4d9d5c5d450ef0" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -647,7 +647,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c
+      return-to=/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c
       user-id="87917539"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -804,7 +804,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-e16c21f7-4d51-4326-a481-a465e7b59f7a" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-ef138bbe-44cb-4974-be2b-522c6bf146b6" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1616,7 +1616,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="460511e339ae422a278af8302578c348c0c3d660f5740cbc0069486f62616cc1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="23dbc0b83e71860483f04d9b0fbb4521405b37462aa7935cf48f6b6cdda11128" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1668,7 +1668,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DCA4MEmg9WUYV27BOPOeDSxZ2cbNaFEhQGfzsCmnUU57XiqTa3C1NEwGx59Sx6P-6JQwqSDGtiHZrmsAx2YUcw" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cR-7uKr9u3F3_dmsTHzV1u4m6qZLKDnkgMECLth2ODQGYakbiC37ICOscPImSOglKusDyaaG3uQZCJqeNrd9CQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="602601263">
 
@@ -1796,7 +1796,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tqXajoZu7hnO63d5rc5bQLwrxMYa801n5-VXCAVliKnB28gtpL6uSJq63ifH-mazeOYtqfddqmd-LM-466TNlA" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7lEXvSkU8q50EQflGegPJjAWebXkKWdkjJURd3zhDBCZLwUeC8Sy_yBArrtz3DLV9NuQ2gmHgGQVXInHkiBJLQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="602601263">
 
@@ -1948,11 +1948,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/teejay0007/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="bc24a46ee16bd7e613db6aa1a5dca58ce134c7960bab31fe396c16ac9a5c9d4b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/teejay0007/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="93ea2093520c8c2831a51e450049b8a62036ad10c18f92d9a46c7d22fd7cc639" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-3f5e02ed-d74d-47a9-b8c4-4bf5b7f6a16b" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of teejay0007/alx-low_level_programming</tool-tip>
+</a>    <tool-tip id="tooltip-306aa1dd-1353-460b-9f2d-6b8e38c0a645" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of teejay0007/alx-low_level_programming</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-602601263" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1967,13 +1967,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-755b65">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e0beca">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-755b65"
+        id="filter-menu-e0beca"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2015,10 +2015,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/teejay0007/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NyY2AojcHiUP4ENot2u13SbG7AZb49eqD6TL_WsVKqFoMZfm47HLBHPJQbqB4UzHL4xfmouelOafsvekSFkCfA" autocomplete="off" />
-          <input type="hidden" value="WFzipsOwfw8v5g0B1xECe83X5Udy545fU-5BQOTxH94HS0NCqN2qLlPPD9Phm_thxJ1W26KazRPD-H0Zx703Aw" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/teejay0007/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TNhgs6c2va9zA-ruMYmXYDs-sUeMvu8jcaNh4ZiGNuMTz8FXzFtojg8q6DwHA256MnQC21zDrG_htV24u8oePg" autocomplete="off" />
+          <input type="hidden" value="JkWz3l12GrE2Lu2AR0diwtwjBo1B3piflg0aqgDp_d95UhI6NhvPkEoH71JxzZvY1Wm1EZGj29MGGybzI6XVAg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="1e0090f7c652c14f955d42bbbcae147d630333a68cd1912209df0461812f8fcd" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="a26b4b4f24960541f97524e63c11830e707b07de3471997b9483281335fe0ed5" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2036,13 +2036,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-879c94">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7ee977">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-879c94"
+        id="filter-menu-7ee977"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2063,9 +2063,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/teejay0007/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="owCvMbxM4pxVgm06nkdeBHwBYTuPcIpuI1gS96JM2-n9i8tltgfAitzzi7t0NM072YEksYyGHRFNMpvNG4635w" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/teejay0007/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="m24sHyNhFRnq3gcaZnke4uSRfUjlQx2hJn7bzaeH0__F5UhLKSo3D2Ov4ZuMCo3dQRE4wua1it5IFFL3HkW_8Q" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="f77c6997fc52cd401fd6ac763e72efd2800916c2371e7862cb91b83f5e59a191" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="8ca1d0de1885e5181411a981270312762a3dbbdbbabad17b34a0d9e0ed207829" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2083,13 +2083,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-879c94">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7ee977">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-879c94"
+        id="filter-menu-7ee977"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2276,7 +2276,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/teejay0007/alx-low_level_programming/blob/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/teejay0007/alx-low_level_programming/blob/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2284,7 +2284,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="14662e8b6a272c3482399c7b2990d83d412ddd3f7fd49cea40b8000bcd719e97">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="26f31e3535f325837679f7d0d302f45320bea4ced7709845df5911f090c0a710">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2365,7 +2365,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/teejay0007/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x03-debugging/3-print_remaining_days.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/teejay0007/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x03-debugging/3-convert_day.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2407,7 +2407,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/teejay0007/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x03-debugging/3-print_remaining_days.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/teejay0007/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x03-debugging/3-convert_day.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2468,7 +2468,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/teejay0007/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/teejay0007/alx-low_level_programming/tree/master/0x03-debugging"><span>0x03-debugging</span></a></span><span class="separator">/</span><strong class="final-path">3-print_remaining_days.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/teejay0007/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/teejay0007/alx-low_level_programming/tree/master/0x03-debugging"><span>0x03-debugging</span></a></span><span class="separator">/</span><strong class="final-path">3-convert_day.c</strong>
   </h2>
     <a href="/teejay0007/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2479,7 +2479,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="7a04e1b0691fc6b69dc8142b59c6334e038c62efb8dc30d7320f184d46d345e3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/teejay0007/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="ad31ddc266c55be2031bc6441b12afc440319741982e4d4f16e64657c88b9d90" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/teejay0007/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2491,13 +2491,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x03-debugging/3-print_remaining_days.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x03-debugging/3-convert_day.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/teejay0007/alx-low_level_programming/blob/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/teejay0007/alx-low_level_programming/blob/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2529,7 +2529,7 @@
     <include-fragment src="/teejay0007/alx-low_level_programming/spoofed_commit_check/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/teejay0007/alx-low_level_programming/contributors/master/0x03-debugging/3-print_remaining_days.c" class="commit-loader">
+  <include-fragment src="/teejay0007/alx-low_level_programming/contributors/master/0x03-debugging/3-convert_day.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2563,23 +2563,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      39 lines (34 sloc)
+      52 lines (50 sloc)
       <span class="file-info-divider"></span>
-    741 Bytes
+    1021 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/teejay0007/alx-low_level_programming/raw/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c" href="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-print_remaining_days.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/teejay0007/alx-low_level_programming/blame/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c" href="/teejay0007/alx-low_level_programming/blame/master/0x03-debugging/3-print_remaining_days.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/teejay0007/alx-low_level_programming/raw/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c" href="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-convert_day.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/teejay0007/alx-low_level_programming/blame/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c" href="/teejay0007/alx-low_level_programming/blame/master/0x03-debugging/3-convert_day.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-print_remaining_days.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2gzdzRkd-07Fv0Mkl46A3SEFcVp00ivfZHCEhUZDvmVHVadyHgdgOCeRbHKtrGG6M_Aj_QbR8Lj-030ED2ER-A" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-convert_day.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bc9DnU2IclTXNN2b0hABRR23NQhpcLUVMWwJ9j2311gTW2xdXrvmcP2aTuudnzedFTaX1_0adz1JALHJxUD37w" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2589,7 +2589,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-print_remaining_days.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RBLuQYaXxjqSisTDFGc41XUEct2h0Zvy60IcMnSL2JXZS5T-gY1dTHCk65UuRdmyZ_EgetPSQJVx4eWzPal3CA" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-convert_day.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j247CpvCNZEL6XrVy2bKdSY3_pQgZLykBtQlhNWu5MTx-hTKiPGhtSFH6aWE6fytLrZcS7QOfox-uJ27LVnEcw" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2608,10 +2608,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/teejay0007/alx-low_level_programming/raw/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/teejay0007/alx-low_level_programming/raw/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="c429d473dba36c1902f609aef5b527cd02ca455fb288e8c9857a5425629ae7e3" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="dc9737141ee5297854464b5dc3f2c34a01b5a296ebd031c2c58410699ec98bac" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2636,7 +2636,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/teejay0007/alx-low_level_programming/delete/master/0x03-debugging/3-print_remaining_days.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LCXdNge21ijsCGUh_YzoKEcLGF_Avs9P3ZTpKaTINi4cN0XGuBvhnyVl9uWxcdE99pPr2PR07gcBDNq149bg4w" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/teejay0007/alx-low_level_programming/delete/master/0x03-debugging/3-convert_day.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FqFDOGOGAmfIiNqkyO8_v9059J4YqO8Zel1XzTbKJTE1wDAoupWOeIDH7DMRK7ZYjTkfFvg7KT0uY4Qik4fxJw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2669,15 +2669,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-print_remaining_days.c">
+            <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-convert_day.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-print_remaining_days.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/teejay0007/alx-low_level_programming/raw/master/0x03-debugging/3-convert_day.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="c429d473dba36c1902f609aef5b527cd02ca455fb288e8c9857a5425629ae7e3">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:602601263,&quot;originating_url&quot;:&quot;https://github.com/teejay0007/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c&quot;,&quot;user_id&quot;:87917539}}" data-hydro-click-hmac="dc9737141ee5297854464b5dc3f2c34a01b5a296ebd031c2c58410699ec98bac">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2700,20 +2700,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/blame/master/0x03-debugging/3-print_remaining_days.c">
+              <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/blame/master/0x03-debugging/3-convert_day.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-print_remaining_days.c">Edit file</a>
+                <a class="dropdown-item" href="/teejay0007/alx-low_level_programming/edit/master/0x03-debugging/3-convert_day.c">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:602601263,&quot;actor_id&quot;:87917539,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/teejay0007/alx-low_level_programming/delete/master/0x03-debugging/3-print_remaining_days.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/teejay0007/alx-low_level_programming/delete/master/0x03-debugging/3-convert_day.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2750,167 +2750,216 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x03-debugging/3-print_remaining_days.c">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x03-debugging/3-convert_day.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* convert_day - converts day of month to day of year, without accounting</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_remaining_days - takes a date and prints how many days are</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* for leap year</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * left in the year, taking leap years into account</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* @month: month in number format</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @month: month in number format</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* @day: day of month</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @day: day of month</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* Return: day of year</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @year: year</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: void</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">convert_day</span>(<span class="pl-k">int</span> month, <span class="pl-k">int</span> day)</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_remaining_days</span>(<span class="pl-k">int</span> month, <span class="pl-k">int</span> day, <span class="pl-k">int</span> year)</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">switch</span> (month)</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">    {</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (year % <span class="pl-c1">4</span> == <span class="pl-c1">0</span> || ((year % <span class="pl-c1">100</span> == <span class="pl-c1">0</span>) &amp;&amp; (year % <span class="pl-c1">400</span> == <span class="pl-c1">0</span>)))</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">2</span>:</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">	{</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">31</span> + day;</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (month &gt; <span class="pl-c1">2</span> &amp;&amp; day &gt;= <span class="pl-c1">60</span>)</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">		{</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">3</span>:</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">			day++;</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">59</span> + day;</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">		}</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">4</span>:</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Day of the year: <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, day);</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">90</span> + day;</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Remaining days: <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">366</span> - day);</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">	}</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">5</span>:</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">else</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">120</span> + day;</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">	{</td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (month == <span class="pl-c1">2</span> &amp;&amp; day == <span class="pl-c1">60</span>)</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">6</span>:</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">		{</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">151</span> + day;</td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Invalid date: <span class="pl-c1">%02d</span>/<span class="pl-c1">%02d</span>/<span class="pl-c1">%04d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, month, day - <span class="pl-c1">31</span>, year);</td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">		}</td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">7</span>:</td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">181</span> + day;</td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">		{</td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Day of the year: <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, day);</td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">8</span>:</td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Remaining days: <span class="pl-c1">%d</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">365</span> - day);</td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">212</span> + day;</td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">		}</td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">	}</td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">9</span>:</td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">243</span> + day;</td>
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">10</span>:</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">273</span> + day;</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">11</span>:</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">304</span> + day;</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">case</span> <span class="pl-c1">12</span>:</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">            day = <span class="pl-c1">334</span> + day;</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">default</span>:</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">break</span>;</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">    }</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> (day);</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2936,7 +2985,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/teejay0007/alx-low_level_programming/blame/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-print_remaining_days.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/teejay0007/alx-low_level_programming/blame/2400da7ec1bd0303626e8ea0d89bad3ba7a873ff/0x03-debugging/3-convert_day.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/teejay0007/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
