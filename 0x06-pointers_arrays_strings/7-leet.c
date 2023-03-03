@@ -8,12 +8,13 @@
 char *leet(char *str)
 {
 	int i;
+	int j;
 	char leet[] = "aAeEoOtTlL";
 	char code[] = "43071";
 
 	for (i = 0; str[i]; i++)
 	{
-		for (int j = 0; j < 10; j++)
+		for (j = 0; j < 10; j++)
 		{
 			if (str[i] == leet[j])
 			{
