@@ -1,7 +1,14 @@
 #include "main.h"
+/**
+ * cap_strings - Converts words to title case
+ * @str: string to be converted
+ *
+ * Return: Title-cased string
+*/
 char *cap_string(char *str)
 {
 	int i;
+	int j;
 	char separators[] = " \t\n,;.!?\"(){}";
 
 	if (str[0] >= 'a' && str[0] <= 'z')
@@ -9,7 +16,7 @@ char *cap_string(char *str)
 
 	for (i = 1; str[i]; i++)
 	{
-		for (int j = 0; separators[j]; j++)
+		for (j = 0; separators[j]; j++)
 		{
 			if (str[i - 1] == separators[j] && str[i] >= 'a' && str[i] <= 'z')
 			{
