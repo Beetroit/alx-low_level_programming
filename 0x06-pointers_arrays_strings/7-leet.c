@@ -3,7 +3,7 @@
  * leet - Converts strings to leet
  * @str: String to be converted
  *
- * Returns: A leet encoded string
+ * Return: A leet encoded string
 */
 char *leet(char *str)
 {
