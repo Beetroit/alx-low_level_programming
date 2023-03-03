@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * cap_strings - Converts words to title case
+ * cap_string - Converts words to title case
  * @str: string to be converted
  *
  * Return: Title-cased string
